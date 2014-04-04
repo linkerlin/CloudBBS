@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudbbs.iml" filepath="$PROJECT_DIR$/cloudbbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudbbs-ear/cloudbbs-ear.iml" filepath="$PROJECT_DIR$/cloudbbs-ear/cloudbbs-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudbbs-war/cloudbbs-war.iml" filepath="$PROJECT_DIR$/cloudbbs-war/cloudbbs-war.iml" />
+    </modules>
+  </component>
+</project>
+

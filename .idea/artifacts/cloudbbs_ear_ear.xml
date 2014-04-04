@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="cloudbbs-ear:ear">
+    <output-path>$PROJECT_DIR$/cloudbbs-ear/target</output-path>
+    <root id="archive" name="cloudbbs-ear-1.0-SNAPSHOT.ear">
+      <element id="artifact" artifact-name="cloudbbs-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>
