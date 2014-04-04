@@ -4,7 +4,9 @@
     <root id="root">
       <element id="javaee-facet-resources" facet="cloudbbs-ear/javaeeApplication/JavaEE" />
       <element id="dir-copy" path="$PROJECT_DIR$/cloudbbs-ear/src/main/application" />
-      <element id="library" level="project" name="Maven: io.github.linkerlin:guestbook-war:war:1.0-SNAPSHOT" />
+      <element id="directory" name="cloudbbs-war-1.0-SNAPSHOT.war">
+        <element id="artifact" artifact-name="cloudbbs-war:war exploded" />
+      </element>
     </root>
   </artifact>
 </component>
